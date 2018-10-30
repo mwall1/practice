@@ -1,0 +1,19 @@
+---
+title: "PracticeHTML"
+author: "Morganne Wall"
+date: "October 30, 2018"
+output: html_document
+---
+
+### First example
+
+I'm going to add two numbers
+``` {r warning=FALSE, message=FALSE}
+X <- 2+2
+X
+
+plot(cars$speed, cars$dist)
+
+library(DT)
+library(tidyverse)
+datatable(mtcars)
