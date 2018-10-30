@@ -2,7 +2,11 @@
 title: "PracticeHTML"
 author: "Morganne Wall"
 date: "October 30, 2018"
-output: html_document
+output:
+  html_document:
+      theme: sandstone
+      toc: true
+      toc_float: true
 ---
 
 ### First example
@@ -17,3 +21,6 @@ plot(cars$speed, cars$dist)
 library(DT)
 library(tidyverse)
 datatable(mtcars)
+```
+
+### Second Header Part
