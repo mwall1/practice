@@ -4,3 +4,4 @@
 ## Open/ Start new project and set the directory to the copied URL code of the repository off of GitHub
 ## Any saves to the files/scripts will show up in the Git box ---------->
 ## Be sure to click the "staged" box for all files then hit Commit; be sure to leave a commit message; then hit "Push"
+
